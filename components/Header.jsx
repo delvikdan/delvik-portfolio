@@ -17,9 +17,9 @@ function Header() {
         {/*Desktop nav */}
         <div className="hidden xl:flex items-center gap-8">
           <Nav />
-          <Link href="/contact">
-            <Button className="cursor-pointer">Contact me</Button>
-          </Link>
+          {/* <Link href="/contact">
+            <Button className="cursor-pointer">сontact me</Button>
+          </Link> */}
         </div>
 
         {/*Mombile nav */}
